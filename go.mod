@@ -1,4 +1,4 @@
-module example.com/mymodule
+module example.com/kdecode
 
 go 1.14
 
